@@ -1,0 +1,5 @@
+name: 'rancher-update-workload-image'
+description: ''
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
